@@ -1,3 +1,8 @@
+# New Version
+
+For new apps, please use the newer version available here: [kduma/eloquent-uuidable](https://github.com/kduma-OSS/eloquent-uuidable)
+
+
 # L5-eloquent-guidable
 [![Latest Stable Version](https://poser.pugx.org/kduma/eloquent-guidable/v/stable.svg)](https://packagist.org/packages/kduma/eloquent-guidable) 
 [![Total Downloads](https://poser.pugx.org/kduma/eloquent-guidable/downloads.svg)](https://packagist.org/packages/kduma/eloquent-guidable) 
